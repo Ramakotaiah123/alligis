@@ -29,7 +29,7 @@ public class alligis1 {
 			yna=s.next();
 			System.out.println("enter qualification");
 			qual=s.next();
-			System.out.println("enter course");
+			System.out.println("enter ramakotaiah");
 			cou=s.next();
 			System.out.println("enter fee");
 			fee=s.nextInt();
